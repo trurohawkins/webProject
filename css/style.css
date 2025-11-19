@@ -1,14 +1,15 @@
 body {
-	background-color: #f9f900;
+	background-color: gold;
 	font-family: Courier, Verdana, Tahoma, Arial, san-serif;
-	color: #a01f22;
+	color: firebrick;
 	text-align: center;
 }
 h1 {
-	color: #0066cc;
 	text-align: center;
 }
 .class {
-	background-color: #3122bc;
+	background-color: darkorange;
 	padding:15px;
+	width: 50%;
+	margin: 0 auto;
 }
